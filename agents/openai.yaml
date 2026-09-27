@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 262"
+  short_description: "胶片残影：上半保留原照，下半收成低饱和的电影残帧和小主体留白"
+  default_prompt: "Use $xxd-panel-262 to transform my photograph following the complete canonical source brief."
