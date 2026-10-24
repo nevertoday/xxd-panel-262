@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 262｜Film Afterimage: saves the subject of a photo as one muted fragment of an old film still or digital archive — a small, recognisable but reduced form with slight pixelation, limited information and soft compression, optionally inside a film frame, low-res frame or faint archive border, hanging quietly in extreme white space, in a low-saturation cinematic palette of fog grey, old white, grey-blue, grey-green, soft warm yellow and muted red with one faint warm light as the emotional focus, plus small subtitle-like or archive-mark text. Not a pixel-art game look or commercial retro filter. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-262 or asks for cinematic film-still, faded memory or film-frame minimal poster design from a photo.",
+  "short_description": "胶片残影：把照片主体收成一帧低饱和的电影残影，安静地悬在留白里",
+  "zh-CN": {
+    "name": "胶片残影",
+    "tagline": "把照片主体收成一帧低饱和的旧电影残影，安静地悬在大片留白里。",
+    "look": "主体被删减到只剩最值得记住的形体和关系，一眼还认得出，但明显被概括、缺了一些，像一帧截留下来的旧电影画面或数字档案残片。它带一点轻微像素化和模糊压缩感，可以放在胶片框、低清画框或一道微弱的档案边界里。颜色从照片取，压成雾灰、旧白、灰蓝、灰绿、柔暖黄和低饱和红，只留一处微弱的暖光作情绪焦点。主体很小，可偏心、贴边或被裁切，悬在大片空白里。文字很小，像电影字幕、档案编号或一句私人注释。",
+    "traits": ["胶片残影", "电影帧", "轻微像素", "低饱和", "小主体留白", "一处暖光"],
+    "good": [
+      "有电影感的安静瞬间：窗边的人影、雨夜的路灯、一辆驶远的车",
+      "带怀念或距离感的对象：老房子、空椅子、站台、海边的背影",
+      "想做成电影海报感、回忆封面或安静壁纸的照片"
+    ],
+    "poor": [
+      "想要清晰、高饱和的画面，或清楚的商业剧照效果",
+      "需要看清细节、文字或人脸的照片",
+      "想要普通游戏像素风、商业复古滤镜或画满环境的效果"
+    ]
+  },
+  "en": {
+    "name": "Film Afterimage",
+    "tagline": "Saves the subject of your photo as one muted frame from an old film, hanging quietly in wide white space.",
+    "look": "The subject is cut down to the forms and relationships most worth remembering, still recognisable at a glance but clearly simplified and partly missing, like a frame kept from an old film or a fragment of a digital archive. It carries slight pixelation and soft compression blur, and may sit inside a film frame, a low-resolution frame or a faint archive border. Colours from the photo are pressed into fog grey, old white, grey-blue, grey-green, soft warm yellow and muted red, with a single faint warm light kept as the emotional focus. The subject is small, off-centre, against the edge or cropped, hanging in a wide empty field. Text is tiny, like a film subtitle, an archive number or a private note.",
+    "traits": ["Film afterimage", "Film frame", "Slight pixelation", "Low saturation", "Small subject, white space", "One warm light"],
+    "good": [
+      "Quiet cinematic moments: a figure by a window, a street lamp on a rainy night, a car driving away",
+      "Subjects with nostalgia or distance: an old house, an empty chair, a platform, someone seen from behind by the sea",
+      "Photos you want as a film-poster-like image, memory cover or calm wallpaper"
+    ],
+    "poor": [
+      "Wanting a sharp, saturated image or a clean commercial film still",
+      "Photos where detail, text or faces must be readable",
+      "Requests for ordinary game pixel art, a commercial retro filter or a fully filled environment"
+    ]
+  },
+  "ja": {
+    "name": "フィルムの残像",
+    "tagline": "写真の主役を、彩度を抑えた古い映画の一コマの残像にして、広い余白に静かに浮かべます。",
+    "look": "主役はいちばん覚えておきたい形と関係だけに削られ、一目でわかるものの、はっきりと簡略化され一部が欠けていて、古い映画から切り取った一コマやデジタルアーカイブの断片のように見えます。わずかなピクセル化とやわらかな圧縮のぼけがあり、フィルムの枠や低解像度の枠、かすかなアーカイブの境界線の中に収めることもできます。写真の色は霧のようなグレー、古びた白、灰青、灰緑、やわらかな暖かい黄色、くすんだ赤に抑え、かすかな暖かい光を一か所だけ気持ちの焦点として残します。主役は小さく、中心からずれても、端に寄っても、切れてもよく、広い空白の中に浮かびます。文字はごく小さく、映画の字幕、アーカイブの番号、個人的な一言のようです。",
+    "traits": ["フィルムの残像", "映画のコマ", "わずかなピクセル", "低彩度", "小さな主役と余白", "一つの暖かい光"],
+    "good": [
+      "映画のような静かな瞬間：窓辺の人影、雨の夜の街灯、遠ざかる車",
+      "懐かしさや距離を感じるもの：古い家、空いた椅子、駅のホーム、海辺の後ろ姿",
+      "映画ポスターのような画像、思い出の表紙、落ち着いた壁紙にしたい写真"
+    ],
+    "poor": [
+      "くっきりして彩度の高い画像や、きれいな商業用スチールを求める場合",
+      "細部や文字、顔が読み取れる必要がある写真",
+      "ふつうのゲーム風ドット絵、商業的なレトロフィルター、環境を描き込んだ絵を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "필름 잔상",
+    "tagline": "사진 속 주인공을 채도 낮은 옛 영화 한 컷의 잔상으로 남겨, 넓은 여백에 조용히 띄웁니다.",
+    "look": "주인공은 가장 기억할 만한 형태와 관계만 남기고 깎여, 한눈에 알아보이지만 분명히 단순해지고 일부가 비어 있어 옛 영화에서 잘라 낸 한 컷이나 디지털 기록의 조각처럼 보입니다. 약간의 픽셀화와 부드러운 압축 흐림이 있고, 필름 테두리나 저해상도 프레임, 희미한 기록물 경계 안에 넣을 수도 있습니다. 사진의 색은 안개 같은 회색, 바랜 흰색, 회청색, 회녹색, 부드러운 따뜻한 노랑, 채도 낮은 빨강으로 눌러 담고, 희미한 따뜻한 빛 한 곳만 감정의 초점으로 남깁니다. 주인공은 작게, 중심에서 벗어나거나 가장자리에 붙거나 잘린 채 넓은 빈 공간에 떠 있습니다. 글씨는 아주 작게, 영화 자막이나 기록 번호, 개인적인 한마디처럼 들어갑니다.",
+    "traits": ["필름 잔상", "영화 프레임", "약간의 픽셀", "낮은 채도", "작은 주인공과 여백", "한 줄기 따뜻한 빛"],
+    "good": [
+      "영화 같은 조용한 순간: 창가의 인영, 비 오는 밤의 가로등, 멀어지는 차",
+      "그리움이나 거리감이 있는 대상: 오래된 집, 빈 의자, 승강장, 바닷가의 뒷모습",
+      "영화 포스터 같은 이미지, 추억 표지, 차분한 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "선명하고 채도 높은 이미지나 깔끔한 상업용 스틸을 원하는 경우",
+      "세부나 글자, 얼굴이 읽혀야 하는 사진",
+      "평범한 게임 도트 그림, 상업 복고 필터, 환경을 가득 채운 그림을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أثر الفيلم",
+    "tagline": "يحفظ عنصر صورتك لقطةً باهتة من فيلم قديم، تطفو بهدوء في فراغ أبيض واسع.",
+    "look": "يُختصر العنصر إلى ما يستحق التذكّر من أشكال وعلاقات، فيبقى معروفاً من النظرة الأولى لكنه مبسّط بوضوح وناقص في بعض أجزائه، كلقطة محفوظة من فيلم قديم أو شظية من أرشيف رقمي. فيه شيء من التبكسل وضبابية الضغط الناعمة، وقد يوضع داخل إطار فيلم أو إطار منخفض الدقة أو حدّ أرشيفي باهت. تُضغط ألوان الصورة إلى رمادي ضبابي وأبيض قديم وأزرق رمادي وأخضر رمادي وأصفر دافئ ناعم وأحمر خافت، مع ضوء دافئ خافت واحد يبقى محوراً للشعور. العنصر صغير، بعيد عن المركز أو ملاصق للحافة أو مقتطع، يطفو في فضاء خالٍ واسع. النص صغير جداً، كترجمة فيلم أو رقم أرشيفي أو ملاحظة شخصية.",
+    "traits": ["أثر الفيلم", "لقطة سينمائية", "تبكسل خفيف", "تشبع منخفض", "عنصر صغير وفراغ", "ضوء دافئ واحد"],
+    "good": [
+      "لحظات سينمائية هادئة: ظلّ شخص قرب نافذة، مصباح شارع في ليلة ممطرة، سيارة تبتعد",
+      "عناصر فيها حنين أو مسافة: بيت قديم، كرسي فارغ، رصيف محطة، شخص من الخلف عند البحر",
+      "صور تريدها بطابع ملصق سينمائي أو غلاف ذكرى أو خلفية شاشة هادئة"
+    ],
+    "poor": [
+      "الرغبة في صورة حادة مشبعة الألوان أو لقطة سينمائية تجارية نظيفة",
+      "صور يجب أن تبقى فيها التفاصيل أو الكتابة أو الوجوه مقروءة",
+      "طلب فن بكسل الألعاب العادي أو مرشّح قديم تجاري أو بيئة ممتلئة بالكامل"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-262
-description: "Create XXD Panel 262 raster artwork: a faithful photograph paired with a cinematic film-still memory with slight pixelation, a muted palette and a small subject in silence. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-262 or asks for this 胶片残影 style."
+description: "XXD Panel 262｜Film Afterimage: saves the subject of a photo as one muted fragment of an old film still or digital archive — a small, recognisable but reduced form with slight pixelation, limited information and soft compression, optionally inside a film frame, low-res frame or faint archive border, hanging quietly in extreme white space, in a low-saturation cinematic palette of fog grey, old white, grey-blue, grey-green, soft warm yellow and muted red with one faint warm light as the emotional focus, plus small subtitle-like or archive-mark text. Not a pixel-art game look or commercial retro filter. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-262 or asks for cinematic film-still, faded memory or film-frame minimal poster design from a photo."
 ---
 
 # XXD Panel 262
